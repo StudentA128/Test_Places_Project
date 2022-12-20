@@ -14,6 +14,7 @@ if __name__ == '__main__':
     print_hi('World')
     print('Hi')
     print('test_branches')
+    print('test_branches_2')
 
 
 
